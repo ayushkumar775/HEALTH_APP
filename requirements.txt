@@ -5,3 +5,4 @@ plotly
 reportlab
 numpy
 streamlit-option-menu
+xgboost
