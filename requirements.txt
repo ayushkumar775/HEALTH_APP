@@ -1,5 +1,6 @@
-pip install numpy==1.26.3
-pip install scikit-learn==1.3.2
-pip install streamlit==1.29.0
-pip install streamlit-option-menu==0.3.6
- command = stremlit run app.py
+streamlit
+pandas
+scikit-learn
+plotly
+reportlab
+numpy
